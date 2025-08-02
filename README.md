@@ -2,7 +2,7 @@
 
 Welcome to the official repository for our Synthetic CAPTCHA Dataset, where we present a collection of 5,000 synthetic image-based CAPTCHAs.
 
-####Dataset
+###Dataset
 
 Images: 5,000 synthetic CAPTCHA images
 
